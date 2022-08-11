@@ -26,7 +26,7 @@ This project is an analysis of New York Citi Bike data, using Tableu data visual
 * Bikes are mostly checked out for 4 to 6 hours.
 * Male users take approximately 3 times more rides than the female users.
 
-### 2.3 Trips by weekday and gender
+### 2.3 Trips by Weekday and Gender
 
 <p align="center">
   <img  src="Resources/3.png">
